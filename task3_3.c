@@ -1,3 +1,8 @@
+/* 
+task 3: Implement LKM  to try out various kernel logging levels using printk . Print a string to the "terminal" using one of the kernel log levels. Also find out all the log levels that print to the terminal by default.
+Author: Rohan Vartak
+*/
+
 #include<linux/printk.h>
 #include<linux/module.h>
 #include<linux/kernel.h>
