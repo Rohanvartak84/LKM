@@ -1,3 +1,8 @@
+/* 
+task 4: Implement LKM  to crash the kernel in the easiest.  Verify by looking at the kernel logs for a kernel oops message. Then reboot.
+Author :  Rohan Vartak
+*/
+
 #include<linux/init.h>
 #include<linux/module.h>
 #include<linux/kernel.h>
