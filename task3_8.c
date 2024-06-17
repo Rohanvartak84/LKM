@@ -1,3 +1,8 @@
+/*
+task 8: Implement LKM to create and manipulate a kernel linked list. Use the struct definition given below for the linked list node. Your module should take a number from the command-line which will specify the number of nodes to add in the linked list.
+Author : Rohan Vartak
+*/
+
 #include <linux/module.h>
 #include <linux/kernel.h>
 #include <linux/init.h>
