@@ -1,3 +1,8 @@
+/*
+task 6: Implement  LKM a module to accept an array of integers as the command-line argument. The number of elements should be fixed (say 10) and the module should exit after printing suitable message if the number of elements passed is not equal to 10; print the integers in the array otherwise.
+Author : Rohan Vartak
+*/
+
 #include<linux/init.h>
 #include<linux/kernel.h>
 #include<linux/module.h>
