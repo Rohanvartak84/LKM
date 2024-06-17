@@ -1,3 +1,8 @@
+/*
+task 2: Implement LKM  to print hostname  and email ID in the kernel logs. Name your init and cleanup functions as "start" and "stop", respectively, instead of init_module and cleanup_module .
+Author: Rohan Vartak
+*/
+
 #include<linux/kernel.h>
 #include<linux/init.h>
 #include<linux/printk.h>
