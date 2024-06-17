@@ -1,3 +1,8 @@
+/*
+task 7: Extend above LKM to Sort the integers in decreasing order and print them. Define your own function or find & use the one available in Linux  headers.
+Author : Rohan Vartak
+*/
+
 #include<linux/init.h>
 #include<linux/module.h>
 #include<linux/kernel.h>
