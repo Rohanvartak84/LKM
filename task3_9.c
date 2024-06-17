@@ -1,3 +1,8 @@
+/*
+task 9: Which function to call for measuring how much time required to insert new node in linked list (ex.8). Implement LKM to get the time in nanoseconds. 
+Author: Rohan Vartak
+*/
+
 #include <linux/module.h>
 #include <linux/kernel.h>
 #include <linux/init.h>
